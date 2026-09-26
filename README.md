@@ -1,1 +1,177 @@
 # pratikum-2-pemograman-web
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Web Praktikum Levi</title>
+</head>
+<body>
+ Isi dokumen
+</body>
+</html>
+
+<p>Ini adalah sebuah paragraf.</p>
+<img src="foto.jpg" alt="Foto mahasiswa">
+
+<a href="https://www.example.com">Kunjungi Website</a>
+<img src="foto.jpg" alt="Foto profil">
+
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<p>Ini adalah paragraf pertama.</p>
+<p>Ini adalah paragraf kedua.</p>
+<br>
+<hr>
+
+<p>Teks <b>ini dicetak tebal</b></p>
+<p>Teks <i>ini dicetak miring</i></p>
+<p>Teks <mark>ini diberi penanda</mark></p>
+<p>Hasil: H<sub>2</sub>O dan x<sup>2</sup></p>
+
+<a href="halaman2.html">Halaman 2</a>
+<a href="https://www.google.com">Google</a>
+
+<h2 id="materi">Materi HTML</h2>
+<a href="#materi">Menuju ke Materi HTML</a>
+
+<img src="images/profil.jpg" alt="Foto profil mahasiswa" title="Foto Profil">
+
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JavaScript</li>
+</ul>
+<ol>
+ <li>Belajar HTML</li>
+ <li>Belajar CSS</li>
+ <li>Belajar JavaScript</li>
+</ol>
+
+<!-- Ini adalah komentar HTML -->
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Praktikum HTML Dasar</title>
+</head>
+<body>
+</body>
+</html>
+
+<!-- Ini adalah paragraf pertama -->
+<p>
+Kami sedang belajar HTML dasar pada mata kuliah Pemrograman Web.
+Praktikum ini digunakan untuk mengenal tag-tag dasar HTML.
+</p>
+<!-- Ini adalah paragraf kedua -->
+<p>
+HTML digunakan untuk menyusun struktur dan konten halaman web.
+Browser akan menampilkan hasil interpretasi dari dokumen HTML.
+</p>
+
+<!-- judul utama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- subjudul -->
+<h2>Paragraf pada HTML</h2>
+
+<p>
+Kami sedang belajar <b>HTML dasar</b> pada mata kuliah
+<i>Pemrograman Web</i>.
+</p>
+<p>
+HTML merupakan <strong>bahasa markup</strong> untuk menyusun
+struktur halaman web.
+</p>
+<p>
+Air ditulis sebagai H<sub>2</sub>O dan luas dapat ditulis
+sebagai x<sup>2</sup>.
+</p>
+
+praktikum-1-html-dasar/
+├── index.html
+└── images/
+ └── profil.jpg
+
+ <h3>Menambahkan Gambar</h3>
+<img src="images/profil.jpg"
+ width="200"
+ alt="Foto profil mahasiswa"
+ title="Foto Profil Mahasiswa">
+
+ <img src="images/profil.jpg" width="200" alt="Foto profil mahasiswa">
+
+ <!-- navigasi halaman -->
+<nav>
+ <a href="index.html">Dasar HTML</a>
+ <a href="halaman2.html">Halaman 2</a>
+ <a href="https://www.google.com">Website Eksternal</a>
+</nav>
+<hr>
+
+<h2>Keahlian</h2>
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JavaScript</li>
+</ul>
+<h2>Urutan Belajar</h2>
+<ol>
+ <li>Mempelajari struktur HTML</li>
+ <li>Mempelajari tag dan atribut</li>
+ <li>Membuat halaman HTML</li>
+ <li>Menguji halaman pada browser</li>
+</ol>
+
+<!-- Bagian Profil Mahasiswa -->
+<h2>Profil Mahasiswa</h2>
+<!-- Bagian Keahlian -->
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+</ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Profil Mahasiswa</title>
+</head>
+<body>
+ <nav>
+ <a href="index.html">Beranda</a>
+ <a href="halaman2.html">Halaman 2</a>
+ </nav>
+ <hr>
+ <h1>Profil Mahasiswa</h1>
+ <img src="images/profil.jpg"
+ width="200"
+ alt="Foto profil mahasiswa">
+ <h2>Data Diri</h2>
+
+ <p>
+ Nama: Nama Mahasiswa
+ </p>
+ <p>
+ Program Studi: Teknik Informatika
+ </p>
+ <p>
+ Saya sedang mempelajari dasar-dasar pengembangan
+ aplikasi web menggunakan HTML.
+ </p>
+ <h2>Keahlian</h2>
+ <ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JavaScript</li>
+ </ul>
+ <h2>Target Belajar</h2>
+ <ol>
+ <li>Menguasai HTML</li>
+ <li>Menguasai CSS</li>
+ <li>Menguasai JavaScript</li>
+ </ol>
+</body>
+</html>
